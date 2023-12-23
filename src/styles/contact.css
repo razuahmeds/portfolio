@@ -1,0 +1,81 @@
+
+
+.contact{
+    padding: 0 260px;
+    background-color: rgba(225, 216, 195, 0.902);
+}
+
+.h4-texts{
+    color: tomato;
+    padding-top: 20px;
+}
+
+.name-input{
+    width: 600px;
+    margin: 15px 0;
+    border: none;
+    padding: 6px;
+}
+
+
+.email-input{
+    width: 295px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border: none;
+    padding: 6px;
+}
+
+.subject-input{
+    width: 297px;
+    margin-bottom: 20px;
+    border: none;
+    padding: 6px;
+}
+
+.say-input{
+    width: 600px;
+    margin-bottom: 20px;
+    background-color: white;
+    border: none;
+    padding: 6px;
+}
+
+.submit-button{
+    padding: 9px 30px;
+    border: none;
+    background-color: rgb(254, 38, 0);
+    color: white;
+    border-radius: 4px;
+}
+
+.icon-button >h2{
+    margin-top: 15px;
+}
+
+
+.facebook{
+    background-color: #5c5ce8;
+    color: white;
+    margin: 15px 0;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 4px;
+}
+
+.linkedin{
+    background-color: rgb(54, 163, 231);
+        color: white;
+        margin: 15px 15px;
+        padding: 8px 25px;
+        border: none;
+        border-radius: 4px;
+}
+.github{
+    background-color: rgb(54, 37, 29);
+        color: white;
+        margin: 15px 0;
+        padding: 8px 25px;
+        border: none;
+        border-radius: 4px;
+}

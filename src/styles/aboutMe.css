@@ -1,0 +1,59 @@
+
+.contenar{
+    background-color: rgb(203, 227, 225);
+    padding: 0 260px;
+
+}
+
+
+
+.contenar-h3-text{
+    color: tomato;
+}
+
+
+.aboutMe-contenar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.aboutMe-contenar-texts >h3{
+    color: tomato;
+    font-size: 20px;
+}
+.aboutMe-contenar-texts >p{
+    font-size: 20px;
+}
+.aboutMe-contenar-texts >h3 .junior{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+
+.programming{
+    color: rgb(42, 141, 216);
+}
+
+
+
+.personal-texts{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.look-what-texts{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.icons{
+    color: rgb(249, 75, 0);
+    font-size: 20px;
+    margin-right: 10px;
+}

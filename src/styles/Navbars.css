@@ -1,0 +1,22 @@
+.nav-img{
+    background: none;
+    width: 65px;
+}
+
+
+
+
+.navebars-link{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #383636;
+    padding: 10px;
+}
+.navebars-link .a-link >a{
+    padding: 0 10px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #ffffff;
+}
