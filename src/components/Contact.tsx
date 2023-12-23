@@ -2,6 +2,7 @@ import "../styles/contact.css";
 import { FaSquareFacebook } from "react-icons/fa6";
 import { BsLinkedin } from "react-icons/bs";
 import { VscGithub } from "react-icons/vsc";
+import { Link } from "react-router-dom";
 
 function Contact() {
   return (
@@ -45,10 +46,12 @@ function Contact() {
       </div>
       <div className="icon-button">
         <h2>Let's get social</h2>
-        <button className="facebook">
-          <FaSquareFacebook />
-          FACEBOOK
-        </button>
+        <Link to={`https://www.facebook.com/`}>
+          <button className="facebook">
+            <FaSquareFacebook />
+            FACEBOOK
+          </button>
+        </Link>
         <button className="linkedin">
           <BsLinkedin />
           LINKENIN

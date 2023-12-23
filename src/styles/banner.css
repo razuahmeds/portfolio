@@ -1,0 +1,29 @@
+
+
+
+
+.banner-contenar{
+    background-color: #cbe3e1;
+    padding: 0 260px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.banner-text >h1{
+    color: #302f2f;
+    font-size: 56px;
+}
+.banner-text >h3{
+    color: #ea8614;
+}
+
+
+
+.banner-imgs {
+    width: 400px;
+    height: 560px;
+    object-fit: cover;
+    padding-left: 100px;
+    background-color: none ;
+}

@@ -1,5 +1,7 @@
 import "../styles/aboutMe.css";
 import { GrAdd } from "react-icons/gr";
+import img from "../img/VIP_Temp_File_image_repair_1703094547507.jpg";
+// import img2 from "../img/MTXX_MH20231029_225322228.jpg";
 
 function AboutMe() {
   return (
@@ -8,8 +10,8 @@ function AboutMe() {
         <h3 className="contenar-h3-text">About Me</h3>
       </div>
       <div className="aboutMe-contenar">
-        <div>
-          <img src="" alt="img" />
+        <div className="contenar-img">
+          <img src={img} alt="img" />
         </div>
         <div className="aboutMe-contenar-texts">
           <h1>Hello I'm Rukunuzzaman Razu</h1>

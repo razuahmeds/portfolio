@@ -17,6 +17,8 @@
 .navebars-link .a-link >a{
     padding: 0 10px;
     font-weight: 700;
+}
+a{
     text-decoration: none;
-    color: #ffffff;
+    color: white;
 }

@@ -1,0 +1,20 @@
+
+
+.project{
+    background-color: #e6d7c2;
+    padding: 50px 260px;
+}
+
+.project-texts> h5 {
+    color: rgb(255, 42, 4);
+}
+.project-texts> p {
+    font-size: 20px;
+}
+
+.project-button> button{
+    background-color: #212121;
+        color: white;
+        margin: 5px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

@@ -1,7 +1,7 @@
 
 .contenar{
-    background-color: rgb(203, 227, 225);
-    padding: 0 260px;
+    background-color: #cbe3e1;
+    padding: 50px 260px;
 
 }
 
@@ -10,6 +10,19 @@
 .contenar-h3-text{
     color: tomato;
 }
+
+
+
+
+.contenar-img > img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    margin-right: 50px;
+}
+
+
+
 
 
 .aboutMe-contenar{
