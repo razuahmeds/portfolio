@@ -10,6 +10,7 @@ import Blogs from "./components/Blogs";
 import Project from "./project/Project";
 import Contact from "./components/Contact";
 import Footer from "./footer/Footer";
+import Cv from "./components/Cv";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/project" element={<Project />} />
         <Route path="/about" element={<AboutMe />} />
+        <Route path="/cv" element={<Cv />} />
         <Route path="/blogs" element={<Blogs />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>

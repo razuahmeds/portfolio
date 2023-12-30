@@ -21,6 +21,9 @@ function Navbars() {
         >
           <a href="">ABOUT ME</a>
         </NavLink>
+        <NavLink to={`/cv`}>
+          <a href="">CV</a>
+        </NavLink>
         <NavLink to={`/blogs`}>
           <a href="">BLOGS</a>
         </NavLink>
