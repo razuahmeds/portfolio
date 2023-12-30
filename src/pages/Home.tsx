@@ -2,7 +2,7 @@ import AboutMe from "../components/AboutMe";
 import Banner from "../components/Banner";
 import Blogs from "../components/Blogs";
 import Contact from "../components/Contact";
-import Project from "../components/Project";
+import Project from "../project/Project";
 
 function Home() {
   return (

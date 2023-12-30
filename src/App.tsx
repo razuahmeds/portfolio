@@ -7,7 +7,7 @@ import Navbars from "./navbars/Navbars";
 import Home from "./pages/Home";
 import AboutMe from "./components/AboutMe";
 import Blogs from "./components/Blogs";
-import Project from "./components/Project";
+import Project from "./project/Project";
 import Contact from "./components/Contact";
 import Footer from "./footer/Footer";
 
